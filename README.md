@@ -80,7 +80,7 @@ Shopify was selected for its powerful built-in e-commerce features including pro
 ![Homepage](homepage.png)
 
 ### Product Page
-![Product Page](product .png)
+![Product Page](product%201.png)
 
 ### Contact Page
 ![Contact Page](contact.png)
