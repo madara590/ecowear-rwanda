@@ -1,10 +1,10 @@
-# 🛍️ EcoWear Rwanda — No-Code E-Commerce Project
+EcoWear Rwanda — No-Code E-Commerce Project
 
 ![EcoWear Rwanda Store](homepage.png)
 
 ---
 
-## 👤 Students Information
+## Students Information
 
 | Field | Details |
 |-------|---------|
@@ -17,15 +17,15 @@
 | **Institution** | University of Lay Adventists of Kigali (UNILAK) |
 | **Submission Date** | June 08, 2026 |
 
----
 
-## 📌 Project Title
+
+## Project Title
 
 **EcoWear Rwanda** — A sustainable fashion e-commerce store selling eco-friendly clothing and accessories made from locally sourced materials in Rwanda.
 
 ---
 
-## 🛠️ Platform Used
+## Platform Used
 
 **Shopify** — [shopify.com](https://www.shopify.com)
 
@@ -33,19 +33,19 @@ Shopify was selected for its powerful built-in e-commerce features including pro
 
 ---
 
-## 🌐 Live Website Link
+## Live Website Link
 
-🔗 [https://6sgixs-s5.myshopify.com](https://6sgixs-s5.myshopify.com/)
-
----
-
-## 💻 GitHub Repository Link
-
-🔗 [https://github.com/madara590/ecowear-rwanda](https://github.com/madara590/ecowear-rwanda)
+ [https://6sgixs-s5.myshopify.com](https://6sgixs-s5.myshopify.com/)
 
 ---
 
-## ✅ Features Implemented
+## GitHub Repository Link
+
+ [https://github.com/madara590/ecowear-rwanda](https://github.com/madara590/ecowear-rwanda)
+
+---
+
+## Features Implemented
 
 ### Pages
 - **Homepage** — Store name, welcome banner, featured products section, and call-to-action button
@@ -55,15 +55,15 @@ Shopify was selected for its powerful built-in e-commerce features including pro
 - **Cart Page** — Add-to-cart functionality with item count and order summary
 
 ### Functional Features
-- ✅ Add to Cart button on every product
-- ✅ Cart icon with live item counter in navigation
-- ✅ Mobile-responsive design
-- ✅ Navigation menu across all pages
-- ✅ Footer with contact info and social links
+- Add to Cart button on every product
+- Cart icon with live item counter in navigation
+- Mobile-responsive design
+- Navigation menu across all pages
+- Footer with contact info and social links
 
 ---
 
-## 🛒 Products Listed
+## Products Listed
 
 | # | Product Name | Price (RWF) | Description |
 |---|-------------|-------------|-------------|
@@ -76,7 +76,7 @@ Shopify was selected for its powerful built-in e-commerce features including pro
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Homepage
 ![Homepage](homepage.png)
@@ -89,7 +89,7 @@ Shopify was selected for its powerful built-in e-commerce features including pro
 
 ---
 
-## ⚙️ How I Built It — Step by Step
+## How I Built It — Step by Step
 
 1. Created a free Shopify account at [shopify.com](https://shopify.com)
 2. Selected the **Horizon** free theme and customized colors and banner image
@@ -104,7 +104,7 @@ Shopify was selected for its powerful built-in e-commerce features including pro
 
 ---
 
-## 🚧 Challenges Faced
+## Challenges Faced
 
 - **Product images**: Finding high-quality, free images that matched the eco-fashion theme required searching multiple free stock photo sites (Unsplash, Pexels).
 - **"Sold out" labels**: Products initially showed as sold out because inventory was set to 0. Fixed by adding stock quantities to each product.
@@ -113,7 +113,7 @@ Shopify was selected for its powerful built-in e-commerce features including pro
 
 ---
 
-## 📚 Lessons Learned
+## Lessons Learned
 
 - No-code platforms like Shopify make it possible to launch a professional e-commerce store quickly without programming knowledge.
 - Good product descriptions and quality images have a major impact on the look and credibility of an online store.
@@ -123,7 +123,7 @@ Shopify was selected for its powerful built-in e-commerce features including pro
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ecowear-rwanda/
