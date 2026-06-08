@@ -8,7 +8,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Full Name** | Tony M. Dukuly |
+| **Full Name** | Tony M. Dukuly | 23574/2023 |
+| **Full Name** | Joseph Seimien Mienwipia | 23488/2023 |
+| **Full Name** | Jamanda Janice Martin | 22553/2023 |
 | **Course** | E-Commerce and Web Application — EWA408510 |
 | **Lecturer** | Eric Maniraguha |
 | **Academic Year** | 2025–2026 \| Semester II |
