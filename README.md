@@ -4,11 +4,11 @@
 
 ---
 
-## 👤 Student Information
+## 👤 Students Information
 
 | Field | Details |
 |-------|---------|
-| **Full Name** | Tony M. Dukuly |
+| **Full Name** | Tony M. Dukuly | Joseph Seimien Mienwipiaz| Jamanda Janice Martin|
 | **Course** | E-Commerce and Web Application — EWA408510 |
 | **Lecturer** | Eric Maniraguha |
 | **Academic Year** | 2025–2026 \| Semester II |
